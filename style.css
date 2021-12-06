@@ -1,0 +1,47 @@
+html {
+  background-image: linear-gradient(to bottom,#FF266B,#F7266B,white );
+  background-repeat: no-repeat;
+}
+
+header {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+body {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+body h3{
+  margin-bottom: 0px;
+}
+
+header aside {
+  flex: 1;
+  margin-left: 200px;
+  margin-right: 10px;
+  padding: 1%;
+}
+
+header aside img {
+  max-width: 100%;
+}
+
+main aside {
+  text-align: right;
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+}
+
+.col2 {
+  text-align: right;
+}
+
+
+h4 {
+  text-align: center;
+}
